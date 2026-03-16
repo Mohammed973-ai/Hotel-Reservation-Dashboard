@@ -50,6 +50,7 @@ and standard stays (1-5)nights  have cancellation Rate 35% and drive Revenue los
 - Implement non-refundable deposits for bookings with lead times over 3 months, specifically for the 3-5 night "Standard Stay" segment.
 - Overbooking Strategy: Since you know 31% of this segment will likely cancel, the hotel can safely overbook these room types by 15-20% during peak months like July and August to ensure maximum occupancy.
 - Targeted Re-confirmation: Send automated "We're excited to see you" emails 45 days before arrival for this segment to flush out "placeholder" bookings earlier in the cycle.
+- Pricing policy : we need to revise our pricing policy from May to September
 ---
 ## Data model
 
