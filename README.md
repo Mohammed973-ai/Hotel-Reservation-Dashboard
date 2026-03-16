@@ -8,30 +8,33 @@
 
 <img width="1428" height="811" alt="image" src="https://github.com/user-attachments/assets/975181d1-5c15-470d-917e-3d57b9ef132c" />
 
+
+
 - Gross revenue is $11.34M
 - Cancellation Rate is 33%
 - loss in Revenue due to Cancellation is ($4.29M)
 - Revenue from online channel ($8.2M) (72%)
 - Revenue from offline channel ($2.75M) (24%)
 - the rest is from other channels(4%)
-## Cancellation rate by market segment
+
+### Cancellation rate by market segment
 - Online : 37% (its revenue loss 40%)
 - Offline : 30% (its revenue loss 33%)
 - Corporation : 11% (its revenue loss 17%)
+
 ## Cancellation Analysis
 
 <img width="1438" height="806" alt="image" src="https://github.com/user-attachments/assets/53c5503b-cf3d-45ab-a486-47244fa0e8b1" />
 
-- Online and Offline channels where the guest lead time is between 1-6 months as this segment is responsible for ($2.66M).
-the room pricing of this segment is above its average room price by approximatly 11.3$ from may to september
+- Online and Offline channels where the guest lead time is between 1-6 months as this segment is responsible for ($2.66M). the room pricing of this segment is above its average room price by approximately 11.3$ from May to September
 - guests from online and offline channels with lead time (1-6) months with short
 and standard stays (1-5)nights  have cancellation Rate 35% and drive Revenue loss of 
-($ 2.02M).
+($2.02M).
 ## Customer behavior analysis
 
 <img width="1432" height="801" alt="image" src="https://github.com/user-attachments/assets/48628a23-849d-47fc-8f11-6f0b7704bc37" />
 
-- Our loyal guests represent 2.6% of our total guests (9)
+- Our loyal guests represent 2.6% of our total guests
 - Corporate channel is responisble for 64% of them
 - most of them stays short and standard stays (1-5) nights
 - their cancellation rate is 2%
