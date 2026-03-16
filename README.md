@@ -3,6 +3,10 @@
 <img width="1331" height="743" alt="image" src="https://github.com/user-attachments/assets/67feac03-eea7-4918-807d-01a9e204d42a" />
 
 ## Overview
+
+<img width="1428" height="811" alt="image" src="https://github.com/user-attachments/assets/975181d1-5c15-470d-917e-3d57b9ef132c" />
+
+---
 - Gross revenue is $11.34M
 - Cancellation Rate is 33%
 - loss in Revenue due to Cancellation is ($4.29M)
