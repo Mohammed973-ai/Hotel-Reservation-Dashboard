@@ -26,7 +26,7 @@
 
 <img width="1438" height="806" alt="image" src="https://github.com/user-attachments/assets/53c5503b-cf3d-45ab-a486-47244fa0e8b1" />
   
-- Online and Offline channels where the guest lead time is between (1-6) months as this segment is responsible for ($2.66M)
+- Online and Offline channels where the guest lead time is between (1-6) months is responsible for revenue loss ($2.66M)
 - the room pricing of this segment is above its average room price by approximately 11.3$ from May to September.
 - guests from online and offline channels with lead time (1-6) months with short
 and standard stays (1-5)nights  have cancellation Rate 35% and drive Revenue loss of 
