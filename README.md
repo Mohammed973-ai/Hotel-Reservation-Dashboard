@@ -1,4 +1,7 @@
 # Hotel-Reservation-Dashboard
+
+<img width="1331" height="743" alt="image" src="https://github.com/user-attachments/assets/67feac03-eea7-4918-807d-01a9e204d42a" />
+
 ## Overview
 - Gross revenue is 
 - Cancellation Rate is 
