@@ -17,7 +17,7 @@
 - Revenue from offline channel ($2.75M) (24%)
 - the rest is from other channels(4%)
 
-### Cancellation rate by market segment
+## Cancellation rate by market segment
 - Online : 37% (its revenue loss 40%)
 - Offline : 30% (its revenue loss 33%)
 - Corporation : 11% (its revenue loss 17%)
@@ -25,8 +25,9 @@
 ## Cancellation Analysis
 
 <img width="1438" height="806" alt="image" src="https://github.com/user-attachments/assets/53c5503b-cf3d-45ab-a486-47244fa0e8b1" />
-
-- Online and Offline channels where the guest lead time is between 1-6 months as this segment is responsible for ($2.66M). the room pricing of this segment is above its average room price by approximately 11.3$ from May to September
+  
+- Online and Offline channels where the guest lead time is between (1-6) months as this segment is responsible for ($2.66M)
+- the room pricing of this segment is above its average room price by approximately 11.3$ from May to September.
 - guests from online and offline channels with lead time (1-6) months with short
 and standard stays (1-5)nights  have cancellation Rate 35% and drive Revenue loss of 
 ($2.02M).
@@ -41,4 +42,16 @@ and standard stays (1-5)nights  have cancellation Rate 35% and drive Revenue los
 ---
 
 <img width="1440" height="801" alt="image" src="https://github.com/user-attachments/assets/af377474-ba54-4171-b252-c0ee4c2b505d" />
+
+---
+## Recommendation
+- Corporate segment has low cancellation rate and drive most of our loyal customer yet its revenue is ($58k) out of the ($11M) so we need to increase our market share from this segment as it is promising one.
+- Our biggest financial risk isn't from rare long-term stays. It's from our standard leisure travelers booking 1 to 6 months out. They have a 31% cancellation rate, which has created a $2.02M revenue gap. Because this is our highest-volume segment, reducing this specific rate by just 5% would add over $300,000 directly to our Actual Revenue.
+- Implement non-refundable deposits for bookings with lead times over 3 months, specifically for the 3-5 night "Standard Stay" segment.
+- Overbooking Strategy: Since you know 31% of this segment will likely cancel, the hotel can safely overbook these room types by 15-20% during peak months like July and August to ensure maximum occupancy.
+- Targeted Re-confirmation: Send automated "We're excited to see you" emails 45 days before arrival for this segment to flush out "placeholder" bookings earlier in the cycle.
+---
+## Data model
+
+<img width="1135" height="719" alt="image" src="https://github.com/user-attachments/assets/8e2b9a93-5e6b-4f13-b4ba-791d4224fedb" />
 
