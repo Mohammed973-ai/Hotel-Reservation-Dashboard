@@ -35,3 +35,7 @@ and standard stays (1-5)nights  have cancellation Rate 35% and drive Revenue los
 - Corporate channel is responisble for 64% of them
 - most of them stays short and standard stays (1-5) nights
 - their cancellation rate is 2%
+---
+
+<img width="1440" height="801" alt="image" src="https://github.com/user-attachments/assets/af377474-ba54-4171-b252-c0ee4c2b505d" />
+
