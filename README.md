@@ -46,9 +46,9 @@ and standard stays (1-5)nights  have cancellation Rate 35% and drive Revenue los
 ---
 ## Recommendation
 - Corporate segment has low cancellation rate and drive most of our loyal customer yet its revenue is ($58k) out of the ($11M) so we need to increase our market share from this segment as it is promising one.
-- Our biggest financial risk isn't from rare long-term stays. It's from our standard leisure travelers booking 1 to 6 months out. They have a 31% cancellation rate, which has created a $2.02M revenue gap. Because this is our highest-volume segment, reducing this specific rate by just 5% would add over $300,000 directly to our Actual Revenue.
+- Our biggest financial risk isn't from rare long-term stays. It's from our standard leisure travelers booking 1 to 6 months out. They have a 31% cancellation rate, which has created a $2.02M revenue gap. Because this is our highest-volume segment, reducing this specific rate by just 5% would add over $300,000 directly to our Actual Revenue and this is can be done by revising our pricing policies from May to September.
 - Implement non-refundable deposits for bookings with lead times over 3 months, specifically for the 3-5 night "Standard Stay" segment.
-- Overbooking Strategy: Since you know 31% of this segment will likely cancel, the hotel can safely overbook these room types by 15-20% during peak months like July and August to ensure maximum occupancy.
+- Overbooking Strategy: Since 31% of this segment will likely cancel, the hotel can safely overbook these room types by 15-20% during peak months like July and August to ensure maximum occupancy.
 - Targeted Re-confirmation: Send automated "We're excited to see you" emails 45 days before arrival for this segment to flush out "placeholder" bookings earlier in the cycle.
 - Pricing policy : we need to revise our pricing policy from May to September
 ---
